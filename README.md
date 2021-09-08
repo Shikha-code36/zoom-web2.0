@@ -1,8 +1,7 @@
-# Zoom Clone By El-Mubarak
+# Zoom Clone 
 
-Just for fun!!!!
 
-This is a zoom clone developed by El-Mubarak.
+This is a zoom clone
 
 It is not an exact clone but it has the bare minimum.
 
@@ -12,6 +11,6 @@ Go to the site i.e http://localhost:443, it automatically generates an id.
 
 To share meeting copy the full link with the id in the address bar e.g http://localhost:433/aaaa-bbbb-cccccc.
 
-People who join with the same link would be in the same meeting as you. Enjoy and have fun!!!
+People who join with the same link would be in the same meeting as you.
 
-Please find Live verion here [Here](https://zoom-clone-el-mubarak.herokuapp.com/).
+Please find Live verion here [Here](https://zoom-web2.herokuapp.com/).
