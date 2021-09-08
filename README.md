@@ -13,4 +13,4 @@ To share meeting copy the full link with the id in the address bar e.g http://lo
 
 People who join with the same link would be in the same meeting as you.
 
-Please find Live verion here [Here](https://zoom-web2.herokuapp.com/).
+Please find Live demo here [Here](https://zoom-web2.herokuapp.com/).
